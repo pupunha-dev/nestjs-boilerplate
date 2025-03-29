@@ -1,6 +1,6 @@
 
 # ✌😎 Fala Dev, Tranqz?
-<p>Este é meu template para projetos NestJS, fornecendo uma estrutura de diretórios padronizada e configurações iniciais para rápido início de desenvolvimento. Tentei focar muito na separação da responsabilidades e principalmente no poder do NestJS para aplicar Inversão de Dependência e  Injeção de dependência tambem. Deixa o projeto extremamente desacoplado e modularizado. Espero que ajude em seus projetos!</p>
+<p>Este é meu template para projetos NestJS, com uma estrutura de diretórios padronizada e configurações iniciais claras e simples de implementar. Foquei bastante na separação da responsabilidades e principalmente no poder do NestJS para aplicar Inversão de Dependência e Injeção de dependência também. A arquitetura ficou extremamente desacoplada e modularizada. Espero que ajude a comunidade!</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nestjs,nodejs,typescript,git" />
