@@ -89,6 +89,7 @@ npm run dev
 
 ### Bugs ocasionais no ESLint 
 <p>Algumas vezes aparecem uns caracteres malucos no código dos projetos com NestJS. Percebi que é uma espécie de conflito entre o Prettier e o ESLint. Para resolver é muito simples. Basta rodar o comdando abaixo:</p>
+
 ```bash
 npm run lint --fix
 ```
