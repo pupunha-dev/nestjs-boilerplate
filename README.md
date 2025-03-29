@@ -62,7 +62,7 @@ $ npm install
 ```bash
 npm run start:dev
 ```
-2. Script modificado de minha preferência par rodar o bom e velho npm run dev 😎✌
+2. Script modificado de minha preferência para rodar o bom e velho npm run dev 😎✌
 ```bash
 npm run dev
 ```
